@@ -36,7 +36,7 @@
         <li><a href="https://www.bbc.com/" target="_blank">BBC</a></li>
       </ul>
     </section>
-    <img src="itsph.jpg" alt="My Photo" width="200" height="200">
+    <img src="c:\Users\Данияр\source\ph\itsph.jpg" alt="My Photo" width="200" height="200">
     <button onclick="alert('Hello, welcome to my profile!')">Click Me</button>
 
     <section>
